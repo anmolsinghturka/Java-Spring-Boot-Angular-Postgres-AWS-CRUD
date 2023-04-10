@@ -2,6 +2,8 @@
 
 # Deployed live at https://anmolsingh-spring-angular.web.app/
 
+# Spring Boot API Documentation using Swagger at https://anmolsingh-api.up.railway.app/swagger-ui/
+
 Full-stack Angular 15 + Spring Boot + PostgreSQL + AWS CRUD Operations in that:
 
 - Each Project has id, title, description, published status.

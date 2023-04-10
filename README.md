@@ -1,5 +1,7 @@
 # Java Spring Boot + Angular 15 + PostgreSQL + AWS CRUD Operations By Anmol Singh
 
+# Deployed live at https://anmolsingh-spring-angular.web.app/
+
 Full-stack Angular 15 + Spring Boot + PostgreSQL + AWS CRUD Operations in that:
 
 - Each Project has id, title, description, published status.

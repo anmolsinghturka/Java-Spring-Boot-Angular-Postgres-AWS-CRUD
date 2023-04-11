@@ -40,7 +40,7 @@ public class SpringBootJpaPostgresqlApplication {
         private ApiInfo apiInfo() {
             return new ApiInfoBuilder()
                     .title("Spring Boot API By Anmol Singh")
-                    .description("My API description")
+                    .description("To document CRUD Operations")
                     .version("1.0.0")
                     .build();
         }
